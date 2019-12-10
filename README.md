@@ -1,2 +1,2 @@
 # netflix
-Netflix clone for study
+Netflix index clone for study
